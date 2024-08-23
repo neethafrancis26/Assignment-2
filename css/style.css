@@ -20,7 +20,7 @@ h1 {
 }
 
 .container {
-  max-width: 1000px;
+  max-width: 900px;
   margin: 0 auto;
   padding: 20px;
 }
@@ -32,7 +32,7 @@ h1 {
 
 .content {
   display: flex;
-  max-width: 1000px;
+  max-width: 900px;
   margin: 30px auto;
 }
 
